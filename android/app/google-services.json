@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704419250099",
+    "firebase_url": "https://employee-da04e.firebaseio.com",
+    "project_id": "employee-da04e",
+    "storage_bucket": "employee-da04e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704419250099:android:62f3177bb1217a2a5155c6",
+        "android_client_info": {
+          "package_name": "com.rushidonga.employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704419250099-co5lnt8v5me4nc6ufeiggoijrrie0bs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKGvgLoEWWgSn_EgQ2Yi7PTTya8gOJ00o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704419250099-co5lnt8v5me4nc6ufeiggoijrrie0bs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
